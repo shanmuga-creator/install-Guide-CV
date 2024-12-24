@@ -1,0 +1,6 @@
+pip install opencv-python
+pip install pandas
+pip install ultralytics
+
+Download the YOLOv8 Model
+    yolo download model=yolov8n.pt
